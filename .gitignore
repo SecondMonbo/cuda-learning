@@ -1,0 +1,6 @@
+/add
+/build/
+*.o
+*.out
+*.ptx
+*.cubin
